@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnyCF
 - 👀 I’m interested in Neuroscience and computer science.
-- 🌱 I’m currently learning Phyton.
-- 💞️ I’m looking to collaborate on Fisotherapp
+- 🌱 I’m currently learning Phyton and Javascript.
+- 💞️ I’m looking to collaborate on advancement of technology
 - 📫 How to reach me StephannyConstantino48@gmail.com
 
 <!---
